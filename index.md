@@ -16,17 +16,17 @@ Computer Programmer
 Hardworking Computer Programming & Analysis offering wide-ranging expertise and 4 years of experience. Background in testing, evaluating, designing and implementing solutions. Specializing in programming a variety of applications with .NET frameworks.
 
 
-### Skills
+## Skills
 
 Issue diagnosis and resolution, Programming development support, Full-stack development, Project management, Team-building
 
 
-### Programming Knowledge
+## Programming Knowledge
 
 Development using .NETs Blazor Framework, MVC 5, and ASP.NET. Used NodeJS to host personal projects. Used GitHub to organize and manage projects. SQL and NoSQL Database management using SQL Server Studio, MySQL, MongoDB, and SQLite. Using a dual-booted Windows and Linux machine and incredibly familiar with both OS'.
 
 
-### Languages
+## Languages
 
 C#, JavaScript, HTML, SQL, CSS, Java, Python
 
