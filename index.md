@@ -1,91 +1,56 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Joshua Wood's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Joshua Wood
+Computer Programmer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="josh.wood200213@gmail.com">josh.wood200213@gmail.com</a>
+| <a href="https://github.com/Kalaghni">My GitHub Page</a>
 </div>
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Hardworking Computer Programming & Analysis offering wide-ranging expertise and 4 years of experience. Background in testing, evaluating, designing and implementing solutions. Specializing in programming a variety of applications with .NET frameworks.
 
 
-### Research interests
+### Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Issue diagnosis and resolution, Programming development support, Full-stack development, Project management, Team-building
 
+
+### Programming Knowledge
+
+Development using .NETs Blazor Framework, MVC 5, and ASP.NET. Used NodeJS to host personal projects. Used GitHub to organize and manage projects. SQL and NoSQL Database management using SQL Server Studio, MySQL, MongoDB, and SQLite. Using a dual-booted Windows and Linux machine and incredibly familiar with both OS'.
+
+
+### Languages
+
+C#, JavaScript, HTML, SQL, CSS, Java, Python
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018 - 2020`
+__Blessed Trinity Catholic Secondary School, Grimsby, ON__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`September, 2020 - present`
+__Niagara College, Welland, ON__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Computer Programmer Analyst
 
 
+## Work
 
-## Awards
+`September, 2018 - now`
+__Dean's No Frills, Beamsville, ON__
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Grocery Clerk
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2022-->
 
 
